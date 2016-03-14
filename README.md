@@ -1,3 +1,2 @@
 # photocontest
-sharing photo with friends
-
+sharing photo with photo contest friends
